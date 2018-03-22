@@ -11,8 +11,11 @@ public class People {
 	public void setName(String name) {
 		this.name = name;
 	}
-	public void sing(){
-		System.out.println("bbb");
+
+	public void sing() {
+		System.out.println("aaaa");
 	}
+	
+
 
 }
